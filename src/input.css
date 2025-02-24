@@ -1,0 +1,10 @@
+@import "tailwindcss";
+.nav-link {
+    @apply mr-3 hover:underline text-[13px/27px] font-normal;
+  }
+.icon-style{
+  @apply w-8 h-8 
+}
+.icons-hover{
+  @apply hover:bg-gray-200 w-[112px] h-[112px] rounded-md
+}
